@@ -6,5 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/gabri/Downloads/chess.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
